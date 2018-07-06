@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Fantastic Four</string>
+    <string name="sendstatic">发送静态广播</string>
+    <string name="senddynamic">发送动态广播</string>
+</resources>
